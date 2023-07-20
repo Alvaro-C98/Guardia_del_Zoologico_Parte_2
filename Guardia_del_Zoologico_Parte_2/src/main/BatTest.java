@@ -1,6 +1,6 @@
 package main;
 
-import sub.classes.Bat;
+import subclasses.Bat;
 
 public class BatTest {
 

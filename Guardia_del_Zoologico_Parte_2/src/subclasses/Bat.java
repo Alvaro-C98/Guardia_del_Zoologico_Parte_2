@@ -1,4 +1,4 @@
-package sub.classes;
+package subclasses;
 
 import classes.Mammal;
 
